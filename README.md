@@ -57,9 +57,9 @@ int main() {
 
 ##OUTPUT
 
-<img width="367" height="272" alt="image" src="https://github.com/user-attachments/assets/2e82f667-64c9-48e5-8fbd-9fafde8e7106" />
 
 
+![Alt text](image.png)
 
 
 
@@ -136,8 +136,7 @@ int main() {
 ##OUTPUT
 
 
-<img width="596" height="332" alt="image" src="https://github.com/user-attachments/assets/00c71799-db8b-4992-a6e0-109471ffd3b9" />
-
+![Alt text](image-1.png)
 
 
 
@@ -157,3 +156,4 @@ int main() {
 
 # RESULT:
 The programs are executed successfully.
+s
